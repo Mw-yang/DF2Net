@@ -1,1 +1,1 @@
-# The code of EGAFNet will be made public soon
+# The code of DF2Net will be made public soon
